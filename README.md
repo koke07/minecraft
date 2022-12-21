@@ -14,7 +14,7 @@ dependencies =
  npm i @react-three/cannon -E   //for manage the camera angle in the game 
  npm i @react-three/drei
  npm i @react-three/fiber 
- npm create vite@latest   // to create a vite project + react 
+ npm create vite@latest   // to create a vite project + react <br>
  <img width="313" alt="Captura de pantalla 2022-12-21 a la(s) 3 45 19 p m" src="https://user-images.githubusercontent.com/31372667/208999651-02ac7b0e-907f-44f2-acf8-0b23365d63e6.png">
 
  
